@@ -27,4 +27,4 @@ Linux | Mac | Windows
 ## Contact Info
 <img src="images/linkedin.png"  width="19"> [linkedin.com/in/martinmenchon/](https://www.linkedin.com/in/martinmenchon/)
 
-<img src="images/mail.png"  width="19"> [martinmenchon@gmail.com](mailto:martinmenchon@gmail.com)
+✉️ [martinmenchon@gmail.com](mailto:martinmenchon@gmail.com)
