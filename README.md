@@ -8,7 +8,7 @@ My name is Martín, I'm a Software engineer also I'm a Ph.D. student at UNCPBA.
 Python | Java | C/C++ | C# | Haxe | Bash | JavaScript
 
 * **Python**<br>
-Keras | Tensorflow | Pandas | Numpy | Selenium | Scikit-Learn | Matplotlib | OpenCV | Seaborn | Jupyter Notebook
+Keras | Tensorflow | Pandas | Numpy | Selenium | Scikit-Learn | Matplotlib | OpenCV | Ray | Jupyter Notebook
 
 * **Database**<br>
 SQL | Oracle SQL | PostgreSQL | MySQL
@@ -17,7 +17,7 @@ SQL | Oracle SQL | PostgreSQL | MySQL
 Neural Networks | Deep Learning | Machine Learning | Data Science | Computer Vision
 
 * **Others**<br>
-LaTeX | Git | Docker | Qt Framework | JSON | Unity3D | OpenCL | Android app development | Agile software development
+LaTeX | Git | Docker | Qt Framework | Unity3D | OpenCL | Android app development | Agile software development
 
 * **OS**<br>
 Linux | Mac | Windows
