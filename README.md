@@ -23,8 +23,3 @@ LaTeX | Git | Docker | Qt Framework | Unity3D | OpenCL | Android app development
 Linux | Mac | Windows
 
 ### More info at: [Full CV](https://drive.google.com/file/d/1D6rteBfSVazB5RMiO5huj90rRIjIJxty/view) 
-
-## Contact Info
-<img src="images/linkedin.png"  width="19"> [linkedin.com/in/martinmenchon/](https://www.linkedin.com/in/martinmenchon/)
-
-✉️ [martinmenchon@gmail.com](mailto:martinmenchon@gmail.com)
