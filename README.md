@@ -7,7 +7,7 @@ I worked in different areas such as:
 * 🌐 Web Scrapping
 * 🎯 Recommender systems
 * 💻 C++ application development
-* 🔨 Provision AWS Infrastructure with Terraform
+* 🔨 Infrastructure provision on AWS with Terraform
 
 ##  Skills
 
