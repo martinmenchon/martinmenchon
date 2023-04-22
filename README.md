@@ -1,7 +1,7 @@
 # Hello there!
 
-My name is Martín, I am a Software engineer and also a PhD student at UNCPBA.<br>
-I worked in different areas such as:
+My name is Martín; I am a Software Engineer and a Ph.D. student at UNCPBA.<br>
+I have worked in different areas, such as:
 * 🖥️ Computer Vision
 * 📈 Sales forecasting
 * 🌐 Web Scrapping
