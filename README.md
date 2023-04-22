@@ -24,7 +24,7 @@ SQL | Oracle SQL | PostgreSQL | MySQL
 Neural Networks | Deep Learning | Machine Learning | Data Science | Computer Vision
 
 * **Others**<br>
-LaTeX | Git | Docker | Qt Framework | Unity3D | OpenCL | Android app development | Agile software development
+Databricks | Terraform | AWS | LaTeX | Git | Docker | Qt Framework | Unity3D | OpenCL | Android app development | Agile software development
 
 * **OS**<br>
 Mac | Windows | Linux
