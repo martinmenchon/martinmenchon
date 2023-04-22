@@ -26,6 +26,6 @@ Neural Networks | Deep Learning | Machine Learning | Data Science | Computer Vis
 LaTeX | Git | Docker | Qt Framework | Unity3D | OpenCL | Android app development | Agile software development
 
 * **OS**<br>
-Linux | Mac | Windows
+Mac | Windows | Linux
 
 ### More info at: [Full CV](https://drive.google.com/file/d/1D6rteBfSVazB5RMiO5huj90rRIjIJxty/view) 
