@@ -14,7 +14,7 @@ I have worked in different areas, such as:
 * **Programming Languages**<br>
 Python | Java | C/C++ | C# | Haxe | Bash | JavaScript
 
-* **Python**<br>
+* **Python Libraries**<br>
 Keras | Tensorflow | Pandas | Numpy | Selenium | Scikit-Learn | Matplotlib | OpenCV | Ray | Jupyter Notebook
 
 * **Database**<br>
