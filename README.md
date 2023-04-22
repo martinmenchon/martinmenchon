@@ -1,6 +1,12 @@
 # Hello there!
 
 My name is Martín, I'm a Software engineer also I'm a Ph.D. student at UNCPBA.
+I worked in different areas such as:
+* 🖥️ Computer Vision
+* 📈 Sales forecasting
+* 🌐 Web Scrapping
+* 🎯 Recommender systems
+* 💻 C++ application development
 
 ##  Skills
 
